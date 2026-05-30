@@ -15,7 +15,7 @@ The pipeline executes entirely in RAM without ever saving files to the hard driv
 ## 🛠️ Tech Stack
 **Backend:**
 * [FastAPI](https://fastapi.tiangolo.com/) - High-performance web server.
-* [PyTorch](https://pytorch.org/) & [Transformers](https://huggingface.co/docs/transformers/index) - AI model execution.
+* [Transformers](https://huggingface.co/docs/transformers/index) - AI model execution.
 * [LangChain](https://www.langchain.com/) - LLM orchestration and prompt templating.
 * `soundfile` & `io.BytesIO` - In-memory audio processing.
 
