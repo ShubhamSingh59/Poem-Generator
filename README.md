@@ -22,7 +22,7 @@ The pipeline executes entirely in RAM without ever saving files to the hard driv
 **Frontend:**
 * [React](https://react.dev/) (Vite) - Component-based UI.
 * [Axios](https://axios-http.com/) - Blob/Form-Data network requests.
-* Vanilla CSS - Custom, responsive dark-mode styling.
+* CSS - Custom, responsive dark-mode styling.
 
 ---
 
