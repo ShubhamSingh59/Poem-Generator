@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+ipykernel
+langchain
+langchain-huggingface
+langchain-core
+langchain-community
+python-dotenv
+huggingface-hub
+transformers
+Pillow
